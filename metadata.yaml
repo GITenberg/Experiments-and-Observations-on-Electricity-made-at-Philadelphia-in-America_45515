@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/92
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45515#Experiments-and-Observations-on-Electricity-made-at-Philadelphia-in-America
 gutenberg_issued: '2014-04-27'
 gutenberg_type: Text
 identifiers:
